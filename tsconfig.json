@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "./lib/",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "declaration": true,
+      "module": "es6",
+      "experimentalDecorators": true,
+      "target": "es6",
+      "allowJs": true,
+      "moduleResolution": "node",
+    }
+}
