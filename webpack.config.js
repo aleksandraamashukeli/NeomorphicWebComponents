@@ -24,7 +24,7 @@ module.exports ={
     },
     output: {
       filename: 'main.js',
-      library:"NeomorphicWebComponents",
+      library:"neomorphicwebcomponents",
       libraryTarget:'umd',
       path: path.resolve(__dirname, 'lib'),
       globalObject:'this',
